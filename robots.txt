@@ -1,0 +1,5 @@
+User-agent: 
+Crawl-delay: 1
+Host: https://sochi-telemaster.ru/
+Sitemap: http://sochi-telemaster.ru/sitemap.xml
+
